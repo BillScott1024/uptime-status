@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '陈YFの服务器状态',
+  SiteName: '忆星辰の服务器状态',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur787669-6ddf3a15e1ac21a76a43088c',
+    'ur1032491-bbade06318d93fc14e10407a',
   ],
 
   // 是否显示监测站点的链接
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'SSLstatus',
-      url: 'https://ssl.cyfan.top/'
+      text: 'SSL 证书',
+      url: 'https://ssl.extingstudio.com/'
     },
     {
-      text: 'Blog',
-      url: 'https://blog.cyfan.top'
+      text: '主页',
+      url: 'https://extingstudio.com'
     }
   ]
 };
