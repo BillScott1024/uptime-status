@@ -28,7 +28,7 @@ window.Config = {
       url: 'https://ssl.extingstudio.com/'
     },
     {
-      text: '主页',
+      text: '回到主页',
       url: 'https://extingstudio.com'
     }
   ]
