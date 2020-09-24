@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '忆星辰の服务器状态',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://status-v2.extingstudio.com/',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
