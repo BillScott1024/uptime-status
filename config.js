@@ -1,6 +1,5 @@
 // 配置
 window.Config = {
-
   // 站点名
   SiteName: '忆星辰の服务器状态',
 
